@@ -9,7 +9,7 @@
 <link type="application/opensearchdescription+xml" rel="search" href="/OpensearchDescription.xml" />
 <title>My Candies</title>
 
-<script src="https://cdn-apac.onetrust.com/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" defer data-domain-script="49e8a847-f2c7-4b58-a340-caf0924064fe"></script>
+<script src="https://cdn-apac.onetrust.com/scripttemplates/otSDKStub.js" data-docut-language="true" type="text/javascript" charset="UTF-8" defer data-domain-script="49e8a847-f2c7-4b58-a340-caf0924064fe"></script>
 <script type="text/javascript">
   const STRICT_COOKIE = "C0001";
   const PERF_COOKIE = "C0002";
